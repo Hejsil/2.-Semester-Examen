@@ -1,0 +1,11 @@
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\obj\Debug\LineSystemCore.Test.csprojResolveAssemblyReference.cache
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\LineSystemCore.Test.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\LineSystemCore.Test.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\LineSystemCore.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\nunit.framework.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\LineSystemCore.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\nunit.framework.xml
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\obj\Debug\LineSystemCore.Test.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\obj\Debug\LineSystemCore.Test.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\ExtensionMethods.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore.Test\bin\Debug\ExtensionMethods.pdb

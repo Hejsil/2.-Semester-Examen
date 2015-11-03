@@ -1,0 +1,7 @@
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\obj\Debug\LineSystemCore.csprojResolveAssemblyReference.cache
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\bin\Debug\LineSystemCore.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\bin\Debug\LineSystemCore.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\obj\Debug\LineSystemCore.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\obj\Debug\LineSystemCore.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\bin\Debug\ExtensionMethods.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystemCore\bin\Debug\ExtensionMethods.pdb

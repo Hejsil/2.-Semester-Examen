@@ -1,0 +1,12 @@
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystem.exe.config
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystem.exe
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystem.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\obj\Debug\LineSystem.csprojResolveAssemblyReference.cache
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\obj\Debug\LineSystem.exe
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\obj\Debug\LineSystem.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystemCore.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystemCore.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystemUI.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\LineSystemUI.pdb
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\ExtensionMethods.dll
+C:\Users\Hejsil\Documents\Documents\Studie\Code Projects\C#\LineSystem\LineSystem\bin\Debug\ExtensionMethods.pdb
